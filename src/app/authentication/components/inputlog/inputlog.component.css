@@ -1,0 +1,9 @@
+input{
+width: 50%;
+height: 2.5rem;
+border-radius: 10px;
+border: 1px solid var(--gray-color);
+box-shadow: 4px 4px 15px var(--gray-dark-color-opacity);
+margin: 2rem auto;
+display: block;
+}
